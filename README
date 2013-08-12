@@ -1,0 +1,4 @@
+// By Raphael Rouvinov-Kats //
+Cracks a password encrypted by linux's DES crypt() function
+Created for a harvard cs50 problem set
+Make sure the source points to a dictionary file like the one included before compiling/running
